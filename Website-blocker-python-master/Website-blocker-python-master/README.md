@@ -22,7 +22,7 @@ Well to get started with this project just clone the repository
 and edit the host file location depending on the OS your using.
 
 ```bash
-    $-> git clone https://github.com/Kalebu/Website-blocker-python
+    $-> git clone https://github.com/r1a1v1i1/Website-blocker-python
     $-> cd Website-blocker-python
     $ Website-blocker-python ->
 ```
